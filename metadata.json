@@ -1,0 +1,6 @@
+{
+  "name": "Vision Agent: Video Analysis Chat",
+  "description": "An agentic chat assistant that analyzes video clips, summarizes key events, and answers questions about the content. Users can upload a video or provide a URL to start the analysis.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
